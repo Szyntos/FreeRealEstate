@@ -1,6 +1,3 @@
-Sure! Here's a sample `README.md` file for your Laravel project:
-
-```markdown
 # FreeRealEstate
 
 ## Table of Contents
@@ -122,8 +119,3 @@ FreeRealEstate is a web application for managing and viewing real estate propert
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
-
-### Summary
-
-This `README.md` provides a comprehensive guide on how to set up and run your Laravel project, including installation steps, configuration, running the application, seeding the database, and available routes. It ensures that anyone who clones the repository can quickly get the application up and running.
