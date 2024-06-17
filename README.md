@@ -13,7 +13,7 @@
 
 ## Introduction
 
-FreeRealEstate is a web application for managing and viewing real estate properties. It includes features for users, administrators, and guest users, providing different levels of access and functionality.
+FreeRealEstate is a web application for managing and viewing real estate properties. It includes features for users, administrators, and guest users, providing different levels of access and functionality. It was done for fun as an introduction to PHP.
 
 ## Features
 
