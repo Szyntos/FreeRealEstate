@@ -28,6 +28,10 @@ FreeRealEstate is a web application for managing and viewing real estate propert
   - Manage properties (add, edit, delete).
   - View and manage user-submitted contact forms.
   - Manage registered users (view, delete non-admin users).
+ 
+## Admin Account
+ - email: admin@admin
+ - password: admin
 
 ## Installation
 
@@ -43,7 +47,7 @@ FreeRealEstate is a web application for managing and viewing real estate propert
    npm install
    ```
 
-3. **Copy the `.env` file:**
+3. **Copy the `.env` file:** (.env file is already in the repo)
    ```bash
    cp .env.example .env
    ```
